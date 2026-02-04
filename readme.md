@@ -125,8 +125,10 @@ Este proyecto permite profundizar en:
 
 **Miguel Vidal**  
 GitHub: [MiguelViHe](https://github.com/MiguelViHe)
+
 **Daniel Palacios**
 GitHub: [Leined18](https://github.com/Leined18)
+
 ---
 
 ## 📄 Licencia
